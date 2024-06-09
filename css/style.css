@@ -3718,7 +3718,7 @@ color: #fff;
 [data-overlay-darkgray]:before,
 [data-overlay-light]:before {
     content: '';
-    position: absolute;
+    position: fixed;
     width: 100%;
     height: 100%;
     top: 0;
