@@ -281,7 +281,7 @@ input[type="checkbox"] {
     width: 100%;
 }
 .bg-img {
-    /* background-size: cover; */
+    background-size: cover;
     background-repeat: no-repeat;
     background-position: center;
 }
@@ -291,7 +291,7 @@ input[type="checkbox"] {
     background-position: left;
 }
 .bg-fixed {
-    background-attachment: fixed;
+    background-attachment: local;
 }
 .pattern {
     background-repeat: repeat;
